@@ -14,7 +14,7 @@ Carry is done using AND gate
 Full adder is a digital circuit used to calculate the sum of three binary bits.
 Full adders are complex and difficult to implement when compared to half adders.
 
- ![Tux, the Linux mascot](https://de-iitr.vlabs.ac.in/exp/half-full-adder/images/2.2.png)
+ ![Tux, the Linux mascot](https://de-iitr.vlabs.ac.in/exp/half-full-adder/images/15.15.png)
 
 Substractor:
 Subtractor circuits take two binary numbers as input and subtract one binary number input from the other binary number input.
